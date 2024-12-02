@@ -10,9 +10,9 @@ import moment from 'moment-timezone'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS;
+const ownervb = "zIDi malik";
 if (!ownervb){
-   throw new Error("OWNERS env is not set");
+   throw new Error("ZiDi Malik 012");
 }
 
 const ownerlist = ownervb.split(';');
@@ -24,7 +24,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
         ownerlist[i + 1],         
         true                        
     ];
-    global.owner.push(owner);
+    global.owner.push(Malik);
 }
 
 //💌------------------------------------------💌
