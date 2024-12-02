@@ -17,7 +17,7 @@ if (!ownervb){
 
 const ownerlist = ownervb.split(';');
 
-global.owner = [];
+global.owner = [ZiDi-Malik];
 for (let i = 0; i < ownerlist.length; i += 2) {
     const owner = [
         ownerlist[i],            
@@ -32,17 +32,17 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumberCode = "" //Example: +923092668108
-global.confirmCode = "" 
+global.botNumberCode = "19892144224" //Example: +923092668108
+global.confirmCode = "19892144224" 
 
 
 //💌------------------------------------------💌
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923092668108'] 
-global.prems = ['923092668108']
-global.allowed = ['923092668108']
+global.mods = ['19892144224'] 
+global.prems = ['19892144224']
+global.allowed = ['19892144224']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
