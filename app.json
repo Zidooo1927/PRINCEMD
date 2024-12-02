@@ -12,9 +12,9 @@
   "stack": "container",
   "env": {
     "OWNERS": {
-      "description": "put your Number as Owner",
+      "description": "19892144224",
       "required": true,
-      "value": "923092668108;❣️DASTAGEER"
+      "value": "19892144224;❣️DASTAGEER"
     },
     "MODE": {
       "description": "mode public or private",
@@ -24,7 +24,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
@@ -62,14 +62,14 @@
       "value": "Your Status has been seen by Prince bot"
     },
     "BOT_NAME": {
-      "description": "put your BOT a name",
+      "description": "Malik_MD",
       "required": true,
-      "value": "PRINCE-MD"
+      "value": "Malik-MD"
     },
     "PACK_NAME": {
-      "description": "put your stickers pack name",
+      "description": "ZiDi Malik",
       "required": false,
-      "value": "Princebot🎗️❣️"
+      "value": "ZiDibot🎗️❣️"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
@@ -78,8 +78,8 @@
     },
     "STATUSVIEW": {
       "description": "make it true to auto view status and likes",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "Status_Saver": {
       "description": "make it true to auto save your contacts status",
@@ -93,13 +93,13 @@
     },
     "AutoReaction": {
       "description": "make it true to react on chats",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "SESSION_ID": {
-      "description": "put your session ID here in the box below",
+      "description": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkZ0TWs5NEQvbWt6QnJMc2FSdzVkaVZSb2k3blJjR2I5QVhVdnpKQ0lIdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid0M0aldzY3VHS2pwZnV1WS9nNFZjM0VGdFhlaGtMMzlob25vdUl3anJSST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtRkNMVHVTblFMZlR1MUN1aUM2MVByeDNUSnpyNzF5MzRRd2IvenpZOW5RPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJKYkVrTjdwNVk5WTNWWHZyeTNJbEdtbmNLRGNlVnhqK2c4TkNqcGkrckVVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlHREdYWkk1VjhxanF5M2FFTS92UXBwWmxaOGNabXY3RHAxQTBkNDkzMWs9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjNWdGowVnJ3Q1hPNHFWc1lxdzd3Z2NheSsxVE8wc3pBQjFwNGZheFlUQUU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUZsMy92MDRwVGl1S2ZGeW1tWGdpVUtmQzhiZmFwVnQ1cElVSy9iNWlHST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibHNNQ1VWZnZFWVk4ZXQ0a2hVRnlJUmhSRlNJSGZ0eUxUSEZYanFuT0dDbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkxYY3A3TWJUUHNka2hacWk3anNRM3VmTXR4WlRDL1lCUWYxenRWczkyRUJGRWJ2MFJIQW0raE9FT0hEa1g4SUdLaHEvODkxd3ZJekZrOG44MTNnbUNRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQ2LCJhZHZTZWNyZXRLZXkiOiJDRGZKM3NCTzJkeGhpWGh5Z2pOVnhjZVAwT2Uyd1hYWkRrcnRzcDY0djlRPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJZNkpKNjZXUCIsIm1lIjp7ImlkIjoiMTk4OTIxNDQyMjQ6MUBzLndoYXRzYXBwLm5ldCIsImxpZCI6IjgwMTA4MTg3MDMzNjA6MUBsaWQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01EcXQvY0ZFTEdldGJvR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InlZOWlQUlQ1MzhoZWloV1J1TVVuN082elRDNFRsWG1zbTBlMjF0ckFJejQ9IiwiYWNjb3VudFNpZ25hdHVyZSI6IllCamlCY2hkZENxbmUzcmxDb0VSTTJIUWZDOC94VFlOeURtcElVc3hCa1FJejV5T0NFdU5TeXFleDk5Q1U2Vk9UWHJUM0VYY0FXSW9qNjE4VHdIbEJRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJaSWdvdnBnS1U5b0NzQmhqdHpHZWZGcVpGOVhubEZZNzR2UXJFTXZVMTVnV0dHNVRWWEhFczhyNW0xdjc5RXdkdGFpZkhWQlRUdTd2SXFnK1N1djRDdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjE5ODkyMTQ0MjI0OjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCY21QWWowVStkL0lYb29Wa2JqRkorenVzMHd1RTVWNXJKdEh0dGJhd0NNKyJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FJSUNBPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzMzMTE5ODA2LCJsYXN0UHJvcEhhc2giOiI0SUVERHkifQ==",
       "required": true,
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkZ0TWs5NEQvbWt6QnJMc2FSdzVkaVZSb2k3blJjR2I5QVhVdnpKQ0lIdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid0M0aldzY3VHS2pwZnV1WS9nNFZjM0VGdFhlaGtMMzlob25vdUl3anJSST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtRkNMVHVTblFMZlR1MUN1aUM2MVByeDNUSnpyNzF5MzRRd2IvenpZOW5RPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJKYkVrTjdwNVk5WTNWWHZyeTNJbEdtbmNLRGNlVnhqK2c4TkNqcGkrckVVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlHREdYWkk1VjhxanF5M2FFTS92UXBwWmxaOGNabXY3RHAxQTBkNDkzMWs9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjNWdGowVnJ3Q1hPNHFWc1lxdzd3Z2NheSsxVE8wc3pBQjFwNGZheFlUQUU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUZsMy92MDRwVGl1S2ZGeW1tWGdpVUtmQzhiZmFwVnQ1cElVSy9iNWlHST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibHNNQ1VWZnZFWVk4ZXQ0a2hVRnlJUmhSRlNJSGZ0eUxUSEZYanFuT0dDbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkxYY3A3TWJUUHNka2hacWk3anNRM3VmTXR4WlRDL1lCUWYxenRWczkyRUJGRWJ2MFJIQW0raE9FT0hEa1g4SUdLaHEvODkxd3ZJekZrOG44MTNnbUNRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQ2LCJhZHZTZWNyZXRLZXkiOiJDRGZKM3NCTzJkeGhpWGh5Z2pOVnhjZVAwT2Uyd1hYWkRrcnRzcDY0djlRPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJZNkpKNjZXUCIsIm1lIjp7ImlkIjoiMTk4OTIxNDQyMjQ6MUBzLndoYXRzYXBwLm5ldCIsImxpZCI6IjgwMTA4MTg3MDMzNjA6MUBsaWQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01EcXQvY0ZFTEdldGJvR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InlZOWlQUlQ1MzhoZWloV1J1TVVuN082elRDNFRsWG1zbTBlMjF0ckFJejQ9IiwiYWNjb3VudFNpZ25hdHVyZSI6IllCamlCY2hkZENxbmUzcmxDb0VSTTJIUWZDOC94VFlOeURtcElVc3hCa1FJejV5T0NFdU5TeXFleDk5Q1U2Vk9UWHJUM0VYY0FXSW9qNjE4VHdIbEJRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJaSWdvdnBnS1U5b0NzQmhqdHpHZWZGcVpGOVhubEZZNzR2UXJFTXZVMTVnV0dHNVRWWEhFczhyNW0xdjc5RXdkdGFpZkhWQlRUdTd2SXFnK1N1djRDdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjE5ODkyMTQ0MjI0OjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCY21QWWowVStkL0lYb29Wa2JqRkorenVzMHd1RTVWNXJKdEh0dGJhd0NNKyJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FJSUNBPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzMzMTE5ODA2LCJsYXN0UHJvcEhhc2giOiI0SUVERHkifQ=="
     }
   },
   "buildpacks": [
